@@ -87,6 +87,7 @@ test = [
 
 [project.scripts]
 plot-groupings = "legendmeta.vis.cli:plot_groupings"
+plot-statuses = "legendmeta.vis.cli:plot_statuses"
 validate-cal-groupings = "legendmeta.police:validate_cal_groupings"
 merge-cal-groupings = "legendmeta.police:merge_cal_groupings"
 merge-phy-groupings = "legendmeta.police:merge_phy_groupings"
